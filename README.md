@@ -63,5 +63,10 @@ Master C through building **REAL** projects, step by step, from zero to expert.
 ## 📜 License  
 Free to use for learning.
 
-NOM : AYOUB EL-ACHAB 
-EMAIL : aelachab21@gmail.com
+## 👤 Vos Contact
+
+- **NOM COMPLET**: Ayoub El Achab
+- **AGE**: 19 ans
+- **Discord ID**: 1294013998332776580
+- **Établissement**: Faculté des Sciences Oujda
+- **email**: aelachab21@gmail.com
